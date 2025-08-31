@@ -1,6 +1,6 @@
 ## Hi there 
 
-- 👋 Hi, I’m @Pingua-cyber
+- 👋 I’m @Pingua-cyber
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning  C, C++, Python
 - 💞️ I’m looking to collaborate on ...
